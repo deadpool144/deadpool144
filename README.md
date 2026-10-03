@@ -198,7 +198,7 @@ Email Delivery
 
 <br/><br/>
 
-<a href="https://github.com/deadpool144">
+<a href="https://github.com/deadpool144/notification-delivery-service.git">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
