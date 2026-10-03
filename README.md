@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0F172A,50:172554,75:0C4A6E,100:020617&text=SUJAL%20KUMAR&fontSize=58&fontColor=E2E8F0&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20%7C%20System%20Design&descAlignY=58&descSize=18&descColor=7DD3FC"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Designing+distributed+systems+%F0%9F%8C%90;Java+%7C+Spring+Boot+%7C+Node.js+%7C+Go;RAG+%7C+LLMs+%7C+AI+Agents+%F0%9F%A4%96;Turning+ideas+into+production-ready+systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Designing+clean+software+architecture;Java+%7C+Spring+Boot+%7C+Node.js;RAG+%7C+LLMs+%7C+AI+Agents+%F0%9F%A4%96;Turning+ideas+into+production-ready+systems"/>
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 # 👨‍💻 About Me
 
-```text
+```text id="42pgnd"
 ┌──(sujal㉿github)-[~/projects]
 └─$ whoami
 
@@ -47,10 +47,10 @@ Software Engineer & Computer Science Student
 └─$ focus --current
 
 ▸ Backend Engineering
-▸ Distributed Systems
 ▸ System Design
 ▸ AI / RAG / LLMs
 ▸ Data Structures & Algorithms
+▸ Low-Level Design
 
 └─$ status
 
@@ -58,8 +58,8 @@ Software Engineer & Computer Science Student
 ```
 
 I enjoy building **production-oriented software systems** and understanding what happens
-behind the abstractions — APIs, databases, caching, concurrency, asynchronous processing,
-distributed systems and AI-powered applications.
+behind the abstractions — APIs, databases, caching, concurrency, asynchronous processing
+and AI-powered applications.
 
 ---
 
@@ -70,15 +70,15 @@ distributed systems and AI-powered applications.
 
 <td width="50%" align="center">
 
-## 🏗️ Backend & Systems
+## 🏗️ Backend Engineering
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,redis,docker,nginx&perline=7"/>
 
 <br/><br/>
 
 `Spring Boot` · `REST APIs` · `PostgreSQL`
-`Redis` · `Docker` · `Microservices`
-`Concurrency` · `System Design`
+`Redis` · `Docker` · `Concurrency`
+`LLD` · `System Design`
 
 </td>
 
@@ -135,11 +135,11 @@ distributed systems and AI-powered applications.
 
 </div>
 
-### ☁️ Tools & Platforms
+### 🔧 Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,vercel,postman,docker&perline=8"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,docker&perline=8"/>
 
 </div>
 
@@ -150,7 +150,7 @@ distributed systems and AI-powered applications.
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 ## 🔗 GradLink
 
@@ -167,21 +167,21 @@ AI Features
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,socketio&perline=5"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs&perline=4"/>
 
 <br/><br/>
 
-<a href="https://github.com/deadpool144">
+<a href="https://github.com/deadpool144/Grad_backend">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 ## 🔔 Notification Service
 
-**Scalable Backend Service**
+**Backend Notification System**
 
 <br/>
 
@@ -195,33 +195,6 @@ Email Delivery
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&perline=4"/>
-
-<br/><br/>
-
-<a href="https://github.com/deadpool144">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-## 🔗 URL Shortener
-
-**Distributed Backend System**
-
-<br/>
-
-Microservices
-Redis
-PostgreSQL
-Docker Compose
-Analytics
-REST APIs
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=java,spring,redis,postgres,docker&perline=5"/>
 
 <br/><br/>
 
@@ -252,7 +225,7 @@ REST APIs
 
 <br/><br/>
 
-```text
+```text id="eekd0w"
 DSA Focus
 
 Arrays        ████████████████████
@@ -323,10 +296,9 @@ Graphs        ████████████░░░░░░░░
 
 <div align="center">
 
-`Backend Architecture`
+`Backend Engineering`
 `System Design`
-`Distributed Systems`
-`Microservices`
+`Low-Level Design`
 `Concurrency`
 `Caching`
 `Database Design`
