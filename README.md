@@ -38,7 +38,7 @@
 
 # 👨‍💻 About Me
 
-```text id="42pgnd"
+```text
 ┌──(sujal㉿github)-[~/projects]
 └─$ whoami
 
@@ -86,7 +86,7 @@ and AI-powered applications.
 
 ## 🤖 AI Engineering
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch&perline=5"/>
 
 <br/><br/>
 
@@ -107,7 +107,7 @@ and AI-powered applications.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,go&perline=10"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript&perline=10"/>
 
 </div>
 
@@ -131,7 +131,7 @@ and AI-powered applications.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python&perline=8"/>
+<img src="https://skillicons.dev/icons?i=pytorch,python&perline=8"/>
 
 </div>
 
@@ -225,7 +225,7 @@ Email Delivery
 
 <br/><br/>
 
-```text id="eekd0w"
+```text
 DSA Focus
 
 Arrays        ████████████████████
