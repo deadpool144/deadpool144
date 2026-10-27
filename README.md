@@ -145,14 +145,14 @@ and AI-powered applications.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" align="center">
 
-## 🔗 GradLink
+##  GradLink
 
 **Alumni Networking Platform**
 
@@ -179,7 +179,7 @@ AI Features
 
 <td width="50%" align="center">
 
-## 🔔 Notification Service
+##  TradeSphere
 
 **Backend Notification System**
 
@@ -187,10 +187,10 @@ AI Features
 
 Spring Boot
 PostgreSQL
-Async Processing
-Retry & Backoff
-Idempotency
-Email Delivery
+Kafka
+Redis
+WebSocket
+Microservice
 
 <br/><br/>
 
