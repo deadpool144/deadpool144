@@ -36,7 +36,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 ```text
 ┌──(sujal㉿github)-[~/projects]
@@ -63,14 +63,14 @@ and AI-powered applications.
 
 ---
 
-# ⚡ Current Focus
+#  Current Focus
 
 <table>
 <tr>
 
 <td width="50%" align="center">
 
-## 🏗️ Backend Engineering
+##  Backend Engineering
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,redis,docker,nginx&perline=7"/>
 
@@ -84,7 +84,7 @@ and AI-powered applications.
 
 <td width="50%" align="center">
 
-## 🤖 AI Engineering
+##  AI Engineering
 
 <img src="https://skillicons.dev/icons?i=python,pytorch&perline=5"/>
 
@@ -101,9 +101,9 @@ and AI-powered applications.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-### 💻 Languages
+###  Languages
 
 <div align="center">
 
@@ -111,7 +111,7 @@ and AI-powered applications.
 
 </div>
 
-### 🚀 Backend & Databases
+###  Backend & Databases
 
 <div align="center">
 
@@ -119,7 +119,7 @@ and AI-powered applications.
 
 </div>
 
-### 🌐 Frontend
+###  Frontend
 
 <div align="center">
 
@@ -127,7 +127,7 @@ and AI-powered applications.
 
 </div>
 
-### 🤖 AI / ML
+###  AI / ML
 
 <div align="center">
 
@@ -135,7 +135,7 @@ and AI-powered applications.
 
 </div>
 
-### 🔧 Tools
+###  Tools
 
 <div align="center">
 
@@ -181,7 +181,7 @@ AI Features
 
 ##  TradeSphere
 
-**Backend Notification System**
+**Stock Trading Platform Backend**
 
 <br/>
 
@@ -198,7 +198,7 @@ Microservice
 
 <br/><br/>
 
-<a href="https://github.com/deadpool144/notification-delivery-service.git">
+<a href="https://github.com/deadpool144/TradeSphere.git">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
@@ -209,7 +209,7 @@ Microservice
 
 ---
 
-# 🧠 Problem Solving
+#  Problem Solving
 
 <div align="center">
 
@@ -242,7 +242,7 @@ Graphs        ████████████░░░░░░░░
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -262,7 +262,7 @@ Graphs        ████████████░░░░░░░░
 
 ---
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <div align="center">
 
@@ -272,7 +272,7 @@ Graphs        ████████████░░░░░░░░
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <div align="center">
 
@@ -282,7 +282,7 @@ Graphs        ████████████░░░░░░░░
 
 ---
 
-# 🏆 GitHub Achievements
+#  GitHub Achievements
 
 <div align="center">
 
@@ -292,7 +292,7 @@ Graphs        ████████████░░░░░░░░
 
 ---
 
-# 📌 Engineering Interests
+#  Engineering Interests
 
 <div align="center">
 
@@ -310,7 +310,7 @@ Graphs        ████████████░░░░░░░░
 
 ---
 
-# 🌐 Connect
+#  Connect
 
 <div align="center">
 
